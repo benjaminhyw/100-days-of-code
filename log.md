@@ -23,7 +23,8 @@
 
 **Thoughts**: I tried implementing tests today and that did not go as well as I thought it would go.  As a result, a lot of my time today was research and looking for good examples and guides online.  I was only able to write one passing test.. BUT I did learn a few things!  Had to update one of my fixtures because I made a minor mistake yesterday, and my test initially wouldn't run because of that.  Also learned about where certain tests should go.  I feel pretty meh about today because there wasn't a whole lot of new code added to my project, but I feel like I just chipped a little at something big so I'm still feeling positive!
 
-**Link(s) to work**: [Rails Online Shop Users](https://github.com/benjaminhyw/rails-online-shop/commit/2685840076763c2f2c19b844e5fc11a7dc81169d)
+
+**Link(s) to work**: [Rails Online Shop Tests PR #9](https://github.com/benjaminhyw/rails-online-shop/pull/9)
 
 ### Day 3: Saturday, January 14th, 2017
 
@@ -31,4 +32,6 @@
 
 **Thoughts**: Today was a productive Saturday!  It being the weekend I thought it would be hard to stay on track, but that wasn't the case.  I did feel like I was having a hard time getting approaching code work today, but that didn't last long.  I mostly worked on user profiles, which meant creating new routes, generating a controller and generating a model.  I reached out to the Rails Slack Channel when I had questions (I was wondering if I even needed to create a route for /users if I didn't plan on ever letting my users see a list of other users, was given good info and linked to the [docs](http://guides.rubyonrails.org/routing.html)).  Overall great productive day.
 
-**Link(s) to work**: [Rails Online Shop Tests PR #9](https://github.com/benjaminhyw/rails-online-shop/pull/9)
+
+**Link(s) to work**: [Rails Online Shop Users](https://github.com/benjaminhyw/rails-online-shop/commit/2685840076763c2f2c19b844e5fc11a7dc81169d)
+
