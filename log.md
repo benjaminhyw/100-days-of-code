@@ -42,5 +42,5 @@
 **Thoughts**: Today was a kind of whatever productive day.  The past few days I spent more than an hour, spent a good chunk of time.. from start point until I just wanted to end for the day.  Have plans today though so couldn't dedicate as much time.  Didn't learn anything new, just coded a lot of stuff I know but necessary for the functionality of my app.  Everything's good!  And it's a sunny day in San Francisco so off to Dolores I go.
 
 
-**Link(s) to work**: [Rails Online Shop Users](https://github.com/benjaminhyw/rails-online-shop/commit/2685840076763c2f2c19b844e5fc11a7dc81169d)
+**Link(s) to work**: [Rails Online Shop Users](https://github.com/benjaminhyw/rails-online-shop/pull/13)
 
