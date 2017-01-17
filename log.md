@@ -44,3 +44,11 @@
 
 **Link(s) to work**: [Rails Online Shop Users](https://github.com/benjaminhyw/rails-online-shop/pull/13)
 
+### Day 5: Monday, January 16th, 2017
+
+**Today's Progress**: More work on my users controller/model, and got started on sessions!
+
+**Thoughts**:  I didn't get a chance to work on this today until early in the evening, had a bit of a long day so my motivation was a bit chopped.  Still, I got an okay amount of work done and got started on creating user sessions!  I didn't complete sessions, just barely started getting things going.  I'm glad though, because I have a lot more time to spend on the project tomorrow.  When I first worked with sessions at my bootcamp the information kinda flew past me.. grasped some concepts that didn't really solidify, so I'm excited to make sense out of it tomorrow!
+
+
+**Link(s) to work**: [Rails Online Shop Sessions](https://github.com/benjaminhyw/rails-online-shop/pull/15)
