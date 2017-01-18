@@ -52,3 +52,12 @@
 
 
 **Link(s) to work**: [Rails Online Shop Sessions](https://github.com/benjaminhyw/rails-online-shop/pull/15)
+
+### Day 6: Tuesday, January 17th, 2017
+
+**Today's Progress**: More work on sessions.
+
+**Thoughts**:  Today was a little frustrating.  Sessions is going to take me longer than I thought.
+
+
+**Link(s) to work**: [Rails Online Shop Sessions](https://github.com/benjaminhyw/rails-online-shop/pull/16)
