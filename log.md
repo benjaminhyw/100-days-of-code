@@ -70,3 +70,12 @@
 
 
 **Link(s) to work**: [Rails Online Shop Sessions](https://github.com/benjaminhyw/rails-online-shop/pull/17)
+
+### Day 8: Thursday, January 19th, 2017
+
+**Today's Progress**: Close to finishing sessions, began to introduce bcrypt.
+
+**Thoughts**:  I bit a little more than I could chew today!  I'm almost done with sessions but noticed that my user passwords weren't encrypted whatsoever.. I tried to implement bcrypt and had to stop.  I get the implementation  but the docs I have to spend a little more time to pay attention to detail.  I'll get this down tomorrow for sure, I'm feeling a little drained today.
+
+
+**Link(s) to work**: [Rails Online Shop Sessions](https://github.com/benjaminhyw/rails-online-shop/pull/18)
