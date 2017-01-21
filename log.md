@@ -79,3 +79,14 @@
 
 
 **Link(s) to work**: [Rails Online Shop Sessions](https://github.com/benjaminhyw/rails-online-shop/pull/18)
+
+### Day 9: Friday, January 20th, 2017
+
+**Today's Progress**: Sessions are done!  Bcrypt is done!.
+
+**Thoughts**:  TODAY WAS SO FRUSTRATING!!!  I spent the earlier half of my day trying and failing to get my bcrypt to work correctly.  Felt like I was going in circles, I actually decided to go restart my work and go back to my last pushed commit because I felt like I was spiraling down a path that wasn't correct.  WHO KNEW my issue had to do with generating a new migration that added to my previous user migration (rather than db:reset after making a manual change in the existing migration).
+
+I actually looked this up yesterday, wondering which of the two was better to do.  People were mixed online.  Very strongly in favor to new migrations being generated when working on a team with people, very lax on working on solo projects.  By not generating a new migration, I kept coming across this error saying "password_digest=" not found.  I'm not sure why figuring that out took me forever, so I took a break and came back to work later at night.  SO HAPPY to say that I FIXED IT, everything works!  EVERYTHING WORKS!!! <3
+
+
+**Link(s) to work**: [Rails Online Shop bcrypt](https://github.com/benjaminhyw/rails-online-shop/pull/19)
