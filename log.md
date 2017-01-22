@@ -88,5 +88,14 @@
 
 I actually looked this up yesterday, wondering which of the two was better to do.  People were mixed online.  Very strongly in favor to new migrations being generated when working on a team with people, very lax on working on solo projects.  By not generating a new migration, I kept coming across this error saying "password_digest=" not found.  I'm not sure why figuring that out took me forever, so I took a break and came back to work later at night.  SO HAPPY to say that I FIXED IT, everything works!  EVERYTHING WORKS!!! <3
 
-
+ 
 **Link(s) to work**: [Rails Online Shop bcrypt](https://github.com/benjaminhyw/rails-online-shop/pull/19)
+
+### Day 10: Saturday, January 21st, 2017
+
+**Today's Progress**: Added a few validations to my user model.
+
+**Thoughts**:  I hopped on my laptop today aiming to write a few tests but ended up writing validations first.. and then wound up trying to understand how to make flash error messages display.  I was able to do so earlier when I included the flash message inside a controller method, but while writing validations I saw that there was a message: key available.  I spent the majority of my time trying to figure that out.  I wasn't able to get a whole lot done this time, because today I only had my one hour and a lot of it was spent reading and trial/error.  I'll pick back up on this tomorrow.  My goal is to get as many validations / tests done before implementing any new features to my project.
+
+
+**Link(s) to work**: [Rails Online Shop User Model Validations](https://github.com/benjaminhyw/rails-online-shop/pull/20)
