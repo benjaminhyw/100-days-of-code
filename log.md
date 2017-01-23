@@ -99,3 +99,12 @@ I actually looked this up yesterday, wondering which of the two was better to do
 
 
 **Link(s) to work**: [Rails Online Shop User Model Validations](https://github.com/benjaminhyw/rails-online-shop/pull/20)
+
+### Day 11: Sunday, January 22nd, 2017
+
+**Today's Progress**: Figured out flash messages from validations.  Added validations to my item model, quick update to README.
+
+**Thoughts**:  Today was productive!  I figured out how to display the correct validation error messages, so I did that for my user model and added some for my items.
+
+
+**Link(s) to work**: [Rails Online Shop User Model Validations](https://github.com/benjaminhyw/rails-online-shop/pull/21) | [Rails Online Shop Item Model Validations](https://github.com/benjaminhyw/rails-online-shop/pull/25)
