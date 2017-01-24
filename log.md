@@ -108,3 +108,12 @@ I actually looked this up yesterday, wondering which of the two was better to do
 
 
 **Link(s) to work**: [Rails Online Shop User Model Validations](https://github.com/benjaminhyw/rails-online-shop/pull/21) | [Rails Online Shop Item Model Validations](https://github.com/benjaminhyw/rails-online-shop/pull/25)
+
+### Day 12: Monday, January 23rd, 2017
+
+**Today's Progress**: Got some practice writing out tests!  Short and simple.. but tests nonetheless.  AND THEY PASS!!
+
+**Thoughts**:  I dove into writing tests.  Wrote a few out.  Today was a mix of studying and writing.  I followed this [guide](https://www.railstutorial.org/book/static_pages) which was pretty insightful.  Will probably keep referencing it for future tests.  Learned about a few useful gems.  FOUND A BUG IN MY CODE.  So this is where some of my testing stops for now.. Apparently my sessions aren't being saved 100%.  They save for a few clicks and then it goes away.  Soon, there will be a test to make sure this doesn't happen!!  As well as fully functional code making sure my users stay logged in until they choose not to be :]
+
+
+**Link(s) to work**: [Rails Online Shop Tests](https://github.com/benjaminhyw/rails-online-shop/pull/27)
