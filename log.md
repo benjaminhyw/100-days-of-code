@@ -117,3 +117,12 @@ I actually looked this up yesterday, wondering which of the two was better to do
 
 
 **Link(s) to work**: [Rails Online Shop Tests](https://github.com/benjaminhyw/rails-online-shop/pull/27)
+
+### Day 13: Tuesday, January 24th, 2017
+
+**Today's Progress**: Found out my sessions weren't being saved because I wasn't using cookies correctly.  Figuring that out took some time.
+
+**Thoughts**:  Today was slightly frustrating.  I spent a good chunk of time trying to figure out what was broken in my code, only to then find out hours later that I was just missing extra steps.  Essentially all I did was fix my layout.html.erb.  I guess it's all part of the job..  Came across this gem I used sometime in the past (and had forgotten about) [Devise](https://github.com/plataformatec/devise), which is pretty cool.  I wanna get my own basic authorization stuff going, so I will work on cookies tomorrow.  I'll use Devise in future projects.  I also briefly touched on SSL .. I definitely learned a lot, but getting there took more time than I would've hoped.  Here's to a more productive tomorrow!
+
+
+**Link(s) to work**: [Rails Online PR 28](https://github.com/benjaminhyw/rails-online-shop/pull/28)
