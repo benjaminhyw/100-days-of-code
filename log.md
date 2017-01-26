@@ -125,4 +125,13 @@ I actually looked this up yesterday, wondering which of the two was better to do
 **Thoughts**:  Today was slightly frustrating.  I spent a good chunk of time trying to figure out what was broken in my code, only to then find out hours later that I was just missing extra steps.  Essentially all I did was fix my layout.html.erb.  I guess it's all part of the job..  Came across this gem I used sometime in the past (and had forgotten about) [Devise](https://github.com/plataformatec/devise), which is pretty cool.  I wanna get my own basic authorization stuff going, so I will work on cookies tomorrow.  I'll use Devise in future projects.  I also briefly touched on SSL .. I definitely learned a lot, but getting there took more time than I would've hoped.  Here's to a more productive tomorrow!
 
 
-**Link(s) to work**: [Rails Online PR 28](https://github.com/benjaminhyw/rails-online-shop/pull/28)
+**Link(s) to work**: [Rails Online Shop PR 28](https://github.com/benjaminhyw/rails-online-shop/pull/28)
+
+### Day 14: Wednesday, January 25th, 2017
+
+**Today's Progress**: Fixed my sessions issue.  Added cookies.  Made updates when finding users/items and added conditionals to prevent users from accessing user/item :id pages they shouldn't.
+
+**Thoughts**:  Super productive!  I asked for help yesterday on my sessions issue (they wouldn't persist) and was told to add cookies.  Added cookies then experienced the same issue.  After some digging I FOUND MY ISSUE! It had to do with my links in my application.html.erb.  My logout link was accidentally calling on the logout method because I had logout instead of logout_path.  Whoops.  After fixing it I felt good moving forward, and had a very pleasant coding day!  I'm about to tackle admin stuff, briefly touched on it today and will try and knock that out tomorrow!
+
+
+**Link(s) to work**: [Rails Online Shop Cookies](https://github.com/benjaminhyw/rails-online-shop/pull/30) | [Rails Online Shop User Redirecting Conditionals](https://github.com/benjaminhyw/rails-online-shop/pull/31) | [Rails Online Shop Admin](https://github.com/benjaminhyw/rails-online-shop/pull/32)
