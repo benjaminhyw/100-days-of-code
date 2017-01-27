@@ -144,3 +144,12 @@ I actually looked this up yesterday, wondering which of the two was better to do
 
 
 **Link(s) to work**: [Rails Online Shop Admin Conditionals](https://github.com/benjaminhyw/rails-online-shop/pull/33) | [Rails Online Shop New Admin Paths In The Making](https://github.com/benjaminhyw/rails-online-shop/pull/34)
+
+### Day 16: Friday, January 27th, 2017
+
+**Today's Progress**: Got all of my admin features done!
+
+**Thoughts**:  Got all of my admin stuff done!  I refactored a little, making my code easier to read.  Added conditionals that redirected admin users to the admin page off the bat.  Also added an admin link throughout the layout that only shows up if you are an admin user.  I decided to keep my functionality where it was for the most part, realized it didn't really affect the functionality of my code other than the route names.. but conventionally I think they should be the way they currently stand (so for example, a new item should be item/new rather than admin/item/new or whatever variation).  Good productive Friday!
+
+
+**Link(s) to work**: [Rails Online Shop Admin](https://github.com/benjaminhyw/rails-online-shop/pull/35)
