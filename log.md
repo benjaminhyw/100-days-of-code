@@ -135,3 +135,12 @@ I actually looked this up yesterday, wondering which of the two was better to do
 
 
 **Link(s) to work**: [Rails Online Shop Cookies](https://github.com/benjaminhyw/rails-online-shop/pull/30) | [Rails Online Shop User Redirecting Conditionals](https://github.com/benjaminhyw/rails-online-shop/pull/31) | [Rails Online Shop Admin](https://github.com/benjaminhyw/rails-online-shop/pull/32)
+
+### Day 15: Thursday, January 26th, 2017
+
+**Today's Progress**: Began fixing things to make way for admin functionality.
+
+**Thoughts**:  Productive day codewise but have had a day-long headache making today not so fun.  Happy to say my code works exactly the way it's supposed to right now!  I think I have to decide how I want my admin to work, so while I edited my code so it would work the way it stands both for admin/non-admin users.. I think I might have to scrap some of that and move the functionality over to a separate admin controller/views/etc.  Which is fine, shouldn't be difficult.. just kinda slightly feels like this is something I should've thought about in more detail before implementing code.
+
+
+**Link(s) to work**: [Rails Online Shop Admin Conditionals](https://github.com/benjaminhyw/rails-online-shop/pull/33) | [Rails Online Shop New Admin Paths In The Making](https://github.com/benjaminhyw/rails-online-shop/pull/34)
