@@ -153,3 +153,13 @@ I actually looked this up yesterday, wondering which of the two was better to do
 
 
 **Link(s) to work**: [Rails Online Shop Admin](https://github.com/benjaminhyw/rails-online-shop/pull/35)
+
+### Day 17: Saturday, January 28th, 2017
+
+**Today's Progress**: Updated README and played FlexboxFroggy.
+
+**Thoughts**:  Today, I am sick :[
+So, I took it easy and just updated my README file so it better reflected the current status of the project, and played FlexboxFroggy!  I will be applying styles and CSS soon so I decided to use today to brush up a little!
+
+
+**Link(s) to work**: [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/36)
