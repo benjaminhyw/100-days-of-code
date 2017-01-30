@@ -159,7 +159,16 @@ I actually looked this up yesterday, wondering which of the two was better to do
 **Today's Progress**: Updated README and played FlexboxFroggy.
 
 **Thoughts**:  Today, I am sick :[
-So, I took it easy and just updated my README file so it better reflected the current status of the project, and played FlexboxFroggy!  I will be applying styles and CSS soon so I decided to use today to brush up a little!
+So, I took it easy and just updated my README file so it better reflected the current status of the project, and played [FlexboxFroggy](http://flexboxfroggy.com/)!  I will be applying styles and CSS soon so I decided to use today to brush up a little!
 
 
 **Link(s) to work**: [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/36)
+
+### Day 18: Sunday, January 29th, 2017
+
+**Today's Progress**: Flexbox CSS Styles!.
+
+**Thoughts**:  I'm still sick!  So today I played with flexbox!  Implemented it in my application and added very basic placeholder styles.  The application still looks very plain, but my objects respond to location styles etc the way I want them.  I'll be adding more later, and I will definitely have to refactor my CSS styling but pretty good for today!
+
+
+**Link(s) to work**: [Rails Online Shop CSS(Flexbox)](https://github.com/benjaminhyw/rails-online-shop/pull/37)
