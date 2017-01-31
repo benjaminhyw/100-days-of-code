@@ -172,3 +172,12 @@ So, I took it easy and just updated my README file so it better reflected the cu
 
 
 **Link(s) to work**: [Rails Online Shop CSS(Flexbox)](https://github.com/benjaminhyw/rails-online-shop/pull/37)
+
+### Day 19: Monday, January 30th, 2017
+
+**Today's Progress**: More CSS Styles, added an extra iteration to readme.
+
+**Thoughts**:  Sickness coming to an end, decided to add a little more CSS styling today.  Also updated my README a little.  Today didn't feel all that productive, but I think that's mostly due to the fact that today was a lot of looking over / CSS (as opposed to new functions/controllers/models/views being added etc).  Even though my CSS looks very elementary, I'll probably move on to more functionality tomorrow.  I do want to improve my CSS styling and will do so with this project, but I think I'm prioritizing functionality at the moment.
+
+
+**Link(s) to work**: [Rails Online Shop CSS Pt1](https://github.com/benjaminhyw/rails-online-shop/pull/39) | [Rails Online Shop CSS Pt2](https://github.com/benjaminhyw/rails-online-shop/pull/41) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/40)
