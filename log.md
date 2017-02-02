@@ -181,3 +181,25 @@ So, I took it easy and just updated my README file so it better reflected the cu
 
 
 **Link(s) to work**: [Rails Online Shop CSS Pt1](https://github.com/benjaminhyw/rails-online-shop/pull/39) | [Rails Online Shop CSS Pt2](https://github.com/benjaminhyw/rails-online-shop/pull/41) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/40)
+
+### Day 20: Monday, January 30th, 2017
+
+**Today's Progress**: Made a bunch of minor fixes.  Little details.
+
+**Thoughts**:  I thought I was going to implement more new features today but I ended up just polishing up some more.  I was mainly focusing on functionality but after adding some CSS styling to what already worked.. I just want it to look nice!  So I did these things:
+  * Created a seed file for dummy data (for users and items)
+  * Price displays correctly (so $10.00 instead of $10.0)
+  * Added a color changing nav bar upon scrolling (jQuery)
+  * Fixed nav link spacing and added new flex containers to help with future nav bar.
+  * Updated README!
+A bunch of little things.  Nothing new functionality wise, but looks cleaner than it did yesterday!  Definitely needs more work but I'm happy.
+
+**Link(s) to work**: [Rails Online Shop Seed Data](https://github.com/benjaminhyw/rails-online-shop/pull/42) | [Rails Online Shop Currency Display](https://github.com/benjaminhyw/rails-online-shop/pull/43) | [Rails Online Shop jQuery (Color Changing Nav)](https://github.com/benjaminhyw/rails-online-shop/pull/45) | [Rails Online Shop Layout Nav Links](https://github.com/benjaminhyw/rails-online-shop/pull/46) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/44)
+
+### Day 21: Tuesday, February 1st, 2017
+
+**Today's Progress**: Implemented MOST of the category features..
+
+**Thoughts**:  I added a lot of the basics for my categories (routes, controllers, models, views, etc) and will focus on the tougher implementation details tomorrow (items displaying the categories they belong to, categories displaying all items under their category etc).  It's probably not all that tough, but will involve a little more thought.  I have some cleaning up to do, I applied some of the same CSS as items for categories for the sake of visually moving forward so I'll make those changes tomorrow as well.  I came across this weird little detail where unless I specify a width in my .individual-item{} CSS, clicking on item links (item, edit or delete) will first quickly readjust my item.. sometimes successfully redirecting me and sometimes not doing anything other than the resize until I click the link again.  It's weird, and I want to figure out why that's the case.  It might not even be an issue once I give categories their own specific CSS (instead of borrowing from Items), but still.  
+
+**Link(s) to work**: [Rails Online Shop Categories](https://github.com/benjaminhyw/rails-online-shop/pull/47) 
