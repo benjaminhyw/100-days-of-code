@@ -182,7 +182,7 @@ So, I took it easy and just updated my README file so it better reflected the cu
 
 **Link(s) to work**: [Rails Online Shop CSS Pt1](https://github.com/benjaminhyw/rails-online-shop/pull/39) | [Rails Online Shop CSS Pt2](https://github.com/benjaminhyw/rails-online-shop/pull/41) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/40)
 
-### Day 20: Monday, January 30th, 2017
+### Day 20: Tuesday, January 31st, 2017
 
 **Today's Progress**: Made a bunch of minor fixes.  Little details.
 
@@ -196,7 +196,7 @@ A bunch of little things.  Nothing new functionality wise, but looks cleaner tha
 
 **Link(s) to work**: [Rails Online Shop Seed Data](https://github.com/benjaminhyw/rails-online-shop/pull/42) | [Rails Online Shop Currency Display](https://github.com/benjaminhyw/rails-online-shop/pull/43) | [Rails Online Shop jQuery (Color Changing Nav)](https://github.com/benjaminhyw/rails-online-shop/pull/45) | [Rails Online Shop Layout Nav Links](https://github.com/benjaminhyw/rails-online-shop/pull/46) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/44)
 
-### Day 21: Tuesday, February 1st, 2017
+### Day 21: Wednesday, February 1st, 2017
 
 **Today's Progress**: Implemented MOST of the category features..
 
@@ -204,10 +204,18 @@ A bunch of little things.  Nothing new functionality wise, but looks cleaner tha
 
 **Link(s) to work**: [Rails Online Shop Categories](https://github.com/benjaminhyw/rails-online-shop/pull/47) 
 
-### Day 22: Wednesday, February 2nd, 2017
+### Day 22: Thursday, February 2nd, 2017
 
 **Today's Progress**: Failed at getting the rest of my categories working.
 
 **Thoughts**:  Today was tough!  And I think I frustrated myself to the point where I just wasn't moving productively.  Gonna try again tomorrow... Accidentally forgot to switch branches on what little work I did tho, so worked on development branch and pushed that up (so no pull request today). *sigh*.  I might just be overthinking this.  The issue I'm having trouble with.. is saving an array inside a database column.  I need to do this, because categories have multiple items and items have multiple categories.  The array is to store the product_id & item_id (which is also accidentally product_id right now.. will change that tomorrow as well).  I've gotten it to where on the console, an empty array is shown as default.. I can push items into the array fine and it sometimes it updates sometimes it doesn't.. but no matter what I can't get it to save correctly. If it can't save, it doesn't register the fact that there is content inside the array.  If there isn't anything inside the array, then my logic to loop through doesn't work. I need to get it to accept pushed items into the array, and save succesfully.  I'm ending my day .. and will try and knock this out tomorrow.  I'm a little crunched for time the next few days so I really hope I can crank this all out tomorrow. 
 
 **Link(s) to work**: Not including one today, because there is no PR for me to link to.  I might end up writing over what I did today, so stay tuned.. 
+
+### Day 23: Saturday, February 4th, 2017
+
+**Today's Progress**: Fixed broken code that wouldn't save any updates to the category_id or item_id.
+
+**Thoughts**:  I had to skip a day yesterday because I needed some personal time off.  Long day.  Today, I went back into trying to figure out why my code wouldn't save correctly.  Turns out the attr_accessors i included somehow weren't letting me save my database object, so I removed those and finally moved forward.  Figuring that out took me some time, so I didn't get to add a whole lot of new code.  After fixing it I was able to move forward and things work now!  I still have to add a way for admin users to make changes regarding categories by using the app itself and not the console.  I also have to fix my CSS and apply more specific styles accordingly.  Happy I fixed this bug today, because the rest should be relatively easy!  Will pick back up tomorrow.
+
+**Link(s) to work**: [Rails Online Shop Categories](https://github.com/benjaminhyw/rails-online-shop/pull/48)
