@@ -219,3 +219,11 @@ A bunch of little things.  Nothing new functionality wise, but looks cleaner tha
 **Thoughts**:  I had to skip a day yesterday because I needed some personal time off.  Long day.  Today, I went back into trying to figure out why my code wouldn't save correctly.  Turns out the attr_accessors i included somehow weren't letting me save my database object, so I removed those and finally moved forward.  Figuring that out took me some time, so I didn't get to add a whole lot of new code.  After fixing it I was able to move forward and things work now!  I still have to add a way for admin users to make changes regarding categories by using the app itself and not the console.  I also have to fix my CSS and apply more specific styles accordingly.  Happy I fixed this bug today, because the rest should be relatively easy!  Will pick back up tomorrow.
 
 **Link(s) to work**: [Rails Online Shop Categories](https://github.com/benjaminhyw/rails-online-shop/pull/48)
+
+### Day 24: Sunday, February 5th, 2017
+
+**Today's Progress**: Creating/editing items will accurately update category show page with individual items!
+
+**Thoughts**:  I wrote some ugly code today.  Ugly, *working* code.. but still ugly.  I was having a hard time deleting items from category.item_id if they were updated.  This is necessary because otherwise the category display show page would still show an instance of an item object that shouldn't be there anymore.  I got it to work but it can definitely be made better.  Essentially what my current code does is delete all instances of items inside every category.item_id array.. and then pushing items inside the array again.  There should be something simpler / not as weird but I can't come up with anything else at the moment so I will refactor this later.  Otherwise, my app is looking okay.  More CSS styles need to be added, and a few other features remain (Like successful checkout, update stock quantity, etc).  I think I want to fully clean up categories and maybe update my CSS a little more.. My application is currently at a stage where it's not complete but deserves to start looking nicer :P
+
+**Link(s) to work**: [Rails Online Shop Categories](https://github.com/benjaminhyw/rails-online-shop/pull/49)
