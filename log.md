@@ -236,3 +236,11 @@ A bunch of little things.  Nothing new functionality wise, but looks cleaner tha
 I think that might be it functionality wise.  Of course there will be more little things that I need to add (Like cart functionality.. have a cart page, easy mod to cart items, etc) but otherwise this is kind of it.  I feel like the project is starting to drag on a little because one hour a day minimum while jobhunting makes for little project progress..  So I'll try and spend more solid chunks of time to crank this out.. I need to add some SUPER nice CSS.  I'm happy with my flexbox implementation (and so glad I understand it now) but that's kind of as visually appealing as it gets.  It needs a wow factor.  I've also started thinking about how I want to make my personal portfolio website after this, so my mind feels like it's wandering around a bunch.  This project is a lot more back-end heavy, which is cool because it's letting me understand things I used to not understand.. and makes me wanna show just as much hard work CSS wise so .. time to get to it!  I need more front-end work here.
 
 **Link(s) to work**: [Rails Online Shop Categories CSS](https://github.com/benjaminhyw/rails-online-shop/pull/50) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/51)
+
+### Day 26: Tuesday, February 7th, 2017
+
+**Today's Progress**: Created an ActionMailer!  Updated README.
+
+**Thoughts**:  My application now sends emails when a user registers for the first time successfully!  I think that's pretty cool.  Very simple generic 'welcome' email but.. it works!  I had such a hard time getting categories down 100% that I'm a little afraid of the upcoming shopping cart.  I feel like this project is near completion (as close as I can get it to right now at least).. so close yet so far!  Lots of hard work ahead of me.  I also need to add more CSS, JavaScript, more jQuery, some AJAX etc.  Here we go!
+
+**Link(s) to work**: [Rails Online Shop Action Mailer](https://github.com/benjaminhyw/rails-online-shop/pull/52) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/53)
