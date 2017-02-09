@@ -244,3 +244,15 @@ I think that might be it functionality wise.  Of course there will be more littl
 **Thoughts**:  My application now sends emails when a user registers for the first time successfully!  I think that's pretty cool.  Very simple generic 'welcome' email but.. it works!  I had such a hard time getting categories down 100% that I'm a little afraid of the upcoming shopping cart.  I feel like this project is near completion (as close as I can get it to right now at least).. so close yet so far!  Lots of hard work ahead of me.  I also need to add more CSS, JavaScript, more jQuery, some AJAX etc.  Here we go!
 
 **Link(s) to work**: [Rails Online Shop Action Mailer](https://github.com/benjaminhyw/rails-online-shop/pull/52) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/53)
+
+### Day 27: Wednesday, February 8th, 2017
+
+**Today's Progress**: FINALLY fixed my weird categorize logic!  Updated seed data to better reflect recent changes..
+
+**Thoughts**:  I started off fixing my seed file.  Doing so made me realize that my categorize method didn't work the way I wanted it to.  Initially it wouldn't run until a new item was created, which meant just calling my categorize method inside index/wherever else needed.. Except since my logic was all wonky it kept doing all this extra work it totally didn't need to.  So I created a new branch, commented out the existing categorize code and basically started with a fresh mindset about the problem.
+
+When I was trying to make edits previously my mind had a hard time thinking outside of the solution I already had, so I commented out that code to see if there was a different approach I could take.  There totally was, and it's a lot cleaner and doesn't do the extra unnecessary work it was previously doing.  My code day seems small today because that's all I'm pushing up today, but it required a lot of white boarding away from the computer, playing with the console etc.
+
+Anyway, I'm super glad I knocked this out!  Implementing logic for Shopping Cart & Checkout should be somewhat similar to this .. so I'm glad I cleaned up this code before moving on to the new task!
+
+**Link(s) to work**: [Rails Online Shop Seed](https://github.com/benjaminhyw/rails-online-shop/pull/54) | [Rails Online Shop Categorize Refactor](https://github.com/benjaminhyw/rails-online-shop/pull/55)
