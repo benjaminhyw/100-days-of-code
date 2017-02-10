@@ -256,3 +256,11 @@ When I was trying to make edits previously my mind had a hard time thinking outs
 Anyway, I'm super glad I knocked this out!  Implementing logic for Shopping Cart & Checkout should be somewhat similar to this .. so I'm glad I cleaned up this code before moving on to the new task!
 
 **Link(s) to work**: [Rails Online Shop Seed](https://github.com/benjaminhyw/rails-online-shop/pull/54) | [Rails Online Shop Categorize Refactor](https://github.com/benjaminhyw/rails-online-shop/pull/55)
+
+### Day 28: Thursday, February 9th, 2017
+
+**Today's Progress**: Began implementing orders/shopping cart functionality!
+
+**Thoughts**:  Today I got started on my shopping cart.  So far things makes sense, I had a little trouble with my nested routes but figured it out.  I'm currently a little stuck making my "Add To Cart" button work.  I'll pick it back up again tomorrow, hopefully finish implementing everything.
+
+**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/56) 
