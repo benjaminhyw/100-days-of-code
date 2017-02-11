@@ -264,3 +264,11 @@ Anyway, I'm super glad I knocked this out!  Implementing logic for Shopping Cart
 **Thoughts**:  Today I got started on my shopping cart.  So far things makes sense, I had a little trouble with my nested routes but figured it out.  I'm currently a little stuck making my "Add To Cart" button work.  I'll pick it back up again tomorrow, hopefully finish implementing everything.
 
 **Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/56) 
+
+### Day 29: Friday, February 10th, 2017
+
+**Today's Progress**: More work on cart/orders.
+
+**Thoughts**:  I don't know why I'm stuck here but I am!  I feel like I barely chipped away today.  Hopefully tomorrow will be better.
+
+**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/57) 
