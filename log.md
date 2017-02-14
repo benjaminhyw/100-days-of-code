@@ -272,3 +272,13 @@ Anyway, I'm super glad I knocked this out!  Implementing logic for Shopping Cart
 **Thoughts**:  I don't know why I'm stuck here but I am!  I feel like I barely chipped away today.  Hopefully tomorrow will be better.
 
 **Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/57) 
+
+### Day 30: Monday, February 13th, 2017
+
+**Today's Progress**: CART/ORDERS!
+
+**Thoughts**:  This is HARD!  I'm having such a hard time with this.  I even took the weekend off to cool down from Friday.  I couldn't get it to work!  After chipping away for hours today, I made SOME progress.. But I'm having this weird password issue that seems completely unrelated to anything!!
+
+So I'm calling it a day and will be back tomorrow... Hopefully tomorrow makes for an easy fix!  My brain can't function anymore today.
+
+**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/58) 
