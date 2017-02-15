@@ -292,3 +292,11 @@ I was also having an issue with my button.  My brain forgot how to brain these p
 Fixed all of that, and calling it a day.  These two issues took a toll on me lol I had such a hard time!  So now that this is fixed i'll implement more minor details tomorrow.
 
 **Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/59) 
+
+### Day 32: Wednesday, February 15th, 2017
+
+**Today's Progress**: More work on shopping cart.  Lots tiny details.
+
+**Thoughts**:  My shopping cart isn't as annoying to work with anymore!  Hooray!  Today I mostly spent moving views from orders/ to cart/, so cart and order functions are kept separately.  Added basic CSS for shopping cart and also added basic logic backing up cart features (no duplicates).  Keeping today's work to a minimum, gonna start up on a python project soon so gonna spend some time studying that now!
+
+**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/60) 
