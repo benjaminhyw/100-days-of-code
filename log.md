@@ -282,3 +282,13 @@ Anyway, I'm super glad I knocked this out!  Implementing logic for Shopping Cart
 So I'm calling it a day and will be back tomorrow... Hopefully tomorrow makes for an easy fix!  My brain can't function anymore today.
 
 **Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/58) 
+
+### Day 31: Tuesday, February 14th, 2017
+
+**Today's Progress**: My shopping cart works!  Very basic at the moment, but it works!
+
+**Thoughts**:  I FINALLY got my shopping cart to work!  Weird, I have to look into a password_digest validation or something because my previous password validation was preventing me pushing items into my user shopping_cart array.  I removed that for the time being, and now I'm finally able to successfully update my shopping cart.
+I was also having an issue with my button.  My brain forgot how to brain these past few days!  Quick and easy fix on my button (after asking for help on the slack channel).  My syntax was off and I wasn't calling my route correctly.  Instead, I was accidentally triggering my add_to_cart method as soon as the item show page loaded.
+Fixed all of that, and calling it a day.  These two issues took a toll on me lol I had such a hard time!  So now that this is fixed i'll implement more minor details tomorrow.
+
+**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/59) 
