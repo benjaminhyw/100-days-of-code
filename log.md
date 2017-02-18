@@ -299,4 +299,12 @@ Fixed all of that, and calling it a day.  These two issues took a toll on me lol
 
 **Thoughts**:  My shopping cart isn't as annoying to work with anymore!  Hooray!  Today I mostly spent moving views from orders/ to cart/, so cart and order functions are kept separately.  Added basic CSS for shopping cart and also added basic logic backing up cart features (no duplicates).  Keeping today's work to a minimum, gonna start up on a python project soon so gonna spend some time studying that now!
 
-**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/60) 
+**Link(s) to work**: [Rails Online Shop Orders](https://github.com/benjaminhyw/rails-online-shop/pull/60)
+
+### Day 32: Friday, February 17th, 2017
+
+**Today's Progress**: More CSS, light coding day..
+
+**Thoughts**:  I took yesterday off from this project to work on a Python code challenge and that drained me so going back into this project I decided to take it easy.  Just fixed a couple of little things that were bothering me about the display.
+
+**Link(s) to work**: [Rails Online Shop CSS](https://github.com/benjaminhyw/rails-online-shop/pull/61) 
