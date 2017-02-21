@@ -308,3 +308,17 @@ Fixed all of that, and calling it a day.  These two issues took a toll on me lol
 **Thoughts**:  I took yesterday off from this project to work on a Python code challenge and that drained me so going back into this project I decided to take it easy.  Just fixed a couple of little things that were bothering me about the display.
 
 **Link(s) to work**: [Rails Online Shop CSS](https://github.com/benjaminhyw/rails-online-shop/pull/61) 
+
+### Day 33: Monday, February 20th, 2017
+
+**Today's Progress**: Worked on more cart functionality, added more to orders functionality.
+
+**Thoughts**:  This weekend put me in a bit of a funk so I took most of it off to just get back in touch with the world.  I needed it.
+
+Once I came back, I was a dedicated coder.  I worked on my shopping cart some more.  Checking out is now kinda working.  KEYWORD: "kinda".  Right now, a checkout does the most basic.  It takes the shopping cart and successfully creates an order object with it.  It also clears itself out once the order is created, but not before updating the user object with this order in the user.orders array.
+
+What it DOESN'T do .. is update stock.  I need more work on my order functionality as well.  Order index, show, etc.  So far, the index provides a clickable link that takes the user to the order/:id show page.  Great!  More on this tomorrow.  I feel good.
+
+Oh and, I also updated the readme file early on this weekend :P
+
+**Link(s) to work**: [Rails Online Shop Shopping Cart](https://github.com/benjaminhyw/rails-online-shop/pull/63) | [Rails Online Shop Shopping README](https://github.com/benjaminhyw/rails-online-shop/pull/62)
