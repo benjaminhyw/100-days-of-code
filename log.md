@@ -321,4 +321,14 @@ What it DOESN'T do .. is update stock.  I need more work on my order functionali
 
 Oh and, I also updated the readme file early on this weekend :P
 
-**Link(s) to work**: [Rails Online Shop Shopping Cart](https://github.com/benjaminhyw/rails-online-shop/pull/63) | [Rails Online Shop Shopping README](https://github.com/benjaminhyw/rails-online-shop/pull/62)
+**Link(s) to work**: [Rails Online Shop Shopping Cart](https://github.com/benjaminhyw/rails-online-shop/pull/63) | [Rails Online Shop README](https://github.com/benjaminhyw/rails-online-shop/pull/62)
+
+### Day 34: Tuesday, February 21st, 2017
+
+**Today's Progress**: Remove item from cart finally works correctly.
+
+**Thoughts**:  Removing items was a little harder than I thought!  But I finally got it down!
+
+Definitely required more research today though.  I see that I've written some excessive code so I'll need to do a refactor sweep soon.  Keeping today simple, since it took so much time out today.  Will spend the rest of the day reading up on tech stuff and pick this back up again tomorrow.  I have a few tech related events coming up the next couple of weeks so I'll be a little crunched on time during then.. Hopefully still productive!
+
+**Link(s) to work**: [Rails Online Shop Shopping Cart](https://github.com/benjaminhyw/rails-online-shop/pull/64) | [Rails Online Shop Shopping Cart Pt2.](https://github.com/benjaminhyw/rails-online-shop/pull/65)
