@@ -332,3 +332,11 @@ Oh and, I also updated the readme file early on this weekend :P
 Definitely required more research today though.  I see that I've written some excessive code so I'll need to do a refactor sweep soon.  Keeping today simple, since it took so much time out today.  Will spend the rest of the day reading up on tech stuff and pick this back up again tomorrow.  I have a few tech related events coming up the next couple of weeks so I'll be a little crunched on time during then.. Hopefully still productive!
 
 **Link(s) to work**: [Rails Online Shop Shopping Cart](https://github.com/benjaminhyw/rails-online-shop/pull/64) | [Rails Online Shop Shopping Cart Pt2.](https://github.com/benjaminhyw/rails-online-shop/pull/65)
+
+### Day 35: Wednesday, March 8th, 2017
+
+**Today's Progress**: Finally came back from a long break.  Started a new project, this time with emphasis on my front-end.
+
+**Thoughts**:  I'm doing a photography portfolio website for a friend, and focusing on my front end first this time.  I'm having fun, since I usually do it the other way around and don't spend enough time on front end work.  I feel happy with what I want, but stopping because I got stuck and it's dinner time!  Here's to a quick minor reset.
+
+**Link(s) to work**: [Rails Photography Portfolio Users](https://github.com/benjaminhyw/photography_portfolio/pull/2) | [Rails Photography Portfolio Photos](https://github.com/benjaminhyw/photography_portfolio/pull/3) | [Rails Photography Portfolio Front-End](https://github.com/benjaminhyw/photography_portfolio/pull/4)
