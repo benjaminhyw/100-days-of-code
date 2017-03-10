@@ -340,3 +340,11 @@ Definitely required more research today though.  I see that I've written some ex
 **Thoughts**:  I'm doing a photography portfolio website for a friend, and focusing on my front end first this time.  I'm having fun, since I usually do it the other way around and don't spend enough time on front end work.  I feel happy with what I want, but stopping because I got stuck and it's dinner time!  Here's to a quick minor reset.
 
 **Link(s) to work**: [Rails Photography Portfolio Users](https://github.com/benjaminhyw/photography_portfolio/pull/2) | [Rails Photography Portfolio Photos](https://github.com/benjaminhyw/photography_portfolio/pull/3) | [Rails Photography Portfolio Front-End](https://github.com/benjaminhyw/photography_portfolio/pull/4)
+
+### Day 36: Wednesday, March 9th, 2017
+
+**Today's Progress**: Fixed my nav, added a page scroll animation effect!
+
+**Thoughts**:  I should do my front end first more often lol.  I had fun today, just playing around with styling etc.  Managed to fix my weird nav spacing, and added this cool scroll animation when a button is clicked.  That's it, but it was tough work!  And I definitely lost track of time playing/working today.
+
+**Link(s) to work**: [Rails Photography Portfolio Front-End](https://github.com/benjaminhyw/photography_portfolio/pull/5)
