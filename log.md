@@ -348,3 +348,17 @@ Definitely required more research today though.  I see that I've written some ex
 **Thoughts**:  I should do my front end first more often lol.  I had fun today, just playing around with styling etc.  Managed to fix my weird nav spacing, and added this cool scroll animation when a button is clicked.  That's it, but it was tough work!  And I definitely lost track of time playing/working today.
 
 **Link(s) to work**: [Rails Photography Portfolio Front-End](https://github.com/benjaminhyw/photography_portfolio/pull/5)
+
+### Day 37: Thursday, March 10th, 2017
+
+**Today's Progress**: Finished up minor animation stuff, got started on implementing a few gems for the back end!
+
+**Thoughts**:  I finished the basics for the front-end, at least what I can do right now.  I want to have my photos working properly before touching the photo portion of my CSS because I want to make equal progress on both sides, rather than focusing too much on one and not enough on the other like I have on previous projects.
+
+So this time after I finished up the button hover & nav color change, I went and looked for gems for my backend.
+
+I've used both rails_admin & devise in the past.  I haven't recently, but I'm trying to give this project a more professional touch and I'm a lot more comfortable on my own rails now (I've created my own authentication & admin so, this is really just a timesaver for a clean experience).  BECAUSE I'm using gems this time tho, I spent a good chunk of time today just understanding the documentation before getting too deep into trying to make them work.  So I feel like today was minimal in progress because they felt like babysteps, but at least now I'm more familiar with how to manipulate and customize gem features to better fit my own.
+
+Tomorrow will be spent just finishing the basics of my back-end.  The project itself doesn't seem to hard.  Each day I realize something I hadn't before, but I feel like I did a pretty good job wireframing/whiteboarding/fleshing out this project before even touching code so I'm happy, confident, and excited for the rest!
+
+**Link(s) to work**: [Rails Photography Portfolio Front-End](https://github.com/benjaminhyw/photography_portfolio/pull/6) | [Rails Photography Portfolio Back-End(gems: devise & rails_admin)](https://github.com/benjaminhyw/photography_portfolio/pull/7)
