@@ -362,3 +362,11 @@ I've used both rails_admin & devise in the past.  I haven't recently, but I'm tr
 Tomorrow will be spent just finishing the basics of my back-end.  The project itself doesn't seem to hard.  Each day I realize something I hadn't before, but I feel like I did a pretty good job wireframing/whiteboarding/fleshing out this project before even touching code so I'm happy, confident, and excited for the rest!
 
 **Link(s) to work**: [Rails Photography Portfolio Front-End](https://github.com/benjaminhyw/photography_portfolio/pull/6) | [Rails Photography Portfolio Back-End(gems: devise & rails_admin)](https://github.com/benjaminhyw/photography_portfolio/pull/7)
+
+### Day 38: Tuesday, March 14th, 2017
+
+**Today's Progress**: Inched away at setting up custom user fields while working with Devise gem.
+
+**Thoughts**:  I didn't get to work on this today as much as I wanted to because I had a lot of things scheduled today.  Still, I cracked Devise open and started adding custom fields that are necessary for my project to work the way I want it to.  Will try and wrap this up tomorrow.
+
+**Link(s) to work**: [Rails Photography Portfolio Admin](https://github.com/benjaminhyw/photography_portfolio/pull/8)
