@@ -370,3 +370,11 @@ Tomorrow will be spent just finishing the basics of my back-end.  The project it
 **Thoughts**:  I didn't get to work on this today as much as I wanted to because I had a lot of things scheduled today.  Still, I cracked Devise open and started adding custom fields that are necessary for my project to work the way I want it to.  Will try and wrap this up tomorrow.
 
 **Link(s) to work**: [Rails Photography Portfolio Admin](https://github.com/benjaminhyw/photography_portfolio/pull/8)
+
+### Day 39: Friday, March 17th, 2017
+
+**Today's Progress**: Got to a comfortable spot customizing Devise, went back to front-end and implemented horizontal sidescroll!
+
+**Thoughts**:  I feel super productive today!  I feel like I basically achieved MVP.  My user can now register, sign in, create new pictures, and the new pictures show up in the correct location with horizontal sidescrolling working perfectly.  There still needs to be some more styling, because right now it currently has bright color backgrounds to help identify containers/children etc.  That needs to get polished up, and infinite pagination needs to be implemented as well.  I'm so glad sidescrolling was 100% easier to implement than I initially thought, so I hope infinite pagination isn't TOO bad.  I've already done it with PHP, which I only used for that project where I implemented it, so hopefully it's cake with Rails (since I'm a lot more familiar with the language)!
+
+**Link(s) to work**: [Rails Photography Portfolio Admin](https://github.com/benjaminhyw/photography_portfolio/pull/9) | [Rails Photography Horizontal Sidescroll](https://github.com/benjaminhyw/photography_portfolio/pull/10)
