@@ -392,3 +392,11 @@ Overall, this was a little frustrating to do.  When I was doing initial research
 Now I must go... pizza awaits.  But before I do that, here's today's work.
 
 **Link(s) to work**: [Rails Photography Portfolio Basic Pagination](https://github.com/benjaminhyw/photography_portfolio/pull/11)
+
+### Day 41: Friday, March 24th, 2017
+
+**Today's Progress**: Squashed some bugs and cleaned some code.
+
+**Thoughts**:  Today was great!  I took care of everything I said I would, and even more.  It was a little tough, but I'm happy with the work I put in today.  Definitely learned a lot today, had to tweak things I've never even touched before but it's all good!  I think I'm finally ready to move on to the next part, which is the "infinite" portion of the site!  So, more JavaScript.  Yay!
+
+**Link(s) to work**: [Rails Photography Portfolio Bug Squashing && Clean-Up](https://github.com/benjaminhyw/photography_portfolio/pull/12)
