@@ -378,3 +378,17 @@ Tomorrow will be spent just finishing the basics of my back-end.  The project it
 **Thoughts**:  I feel super productive today!  I feel like I basically achieved MVP.  My user can now register, sign in, create new pictures, and the new pictures show up in the correct location with horizontal sidescrolling working perfectly.  There still needs to be some more styling, because right now it currently has bright color backgrounds to help identify containers/children etc.  That needs to get polished up, and infinite pagination needs to be implemented as well.  I'm so glad sidescrolling was 100% easier to implement than I initially thought, so I hope infinite pagination isn't TOO bad.  I've already done it with PHP, which I only used for that project where I implemented it, so hopefully it's cake with Rails (since I'm a lot more familiar with the language)!
 
 **Link(s) to work**: [Rails Photography Portfolio Admin](https://github.com/benjaminhyw/photography_portfolio/pull/9) | [Rails Photography Horizontal Sidescroll](https://github.com/benjaminhyw/photography_portfolio/pull/10)
+
+### Day 40: Thursday, March 23rd, 2017
+
+**Today's Progress**: Finally got basic pagination done.  Needs cleaning up before implementing "infinite" properties.
+
+**Thoughts**:  I've been traveling back and forth this past week so it's been hard to keep working on this project.  I worked some on Tuesday, and some more today.  Same pull request for both, because I wasn't ready to create a PR for what I had then.
+
+I finally got basic pagination done.  Needs to be cleaned up tho, it currently has 4 different bugs (that I know of) that I wanna take care of before moving forward.  Minor little things, won't go into detail here because that'll probably be my PR tomorrow.
+
+Overall, this was a little frustrating to do.  When I was doing initial research for this, everyone had all these tutorials on how to do it by using a gem.. and that's totally fine but I didn't want to use a gem for this because I had never done it by hand before and I really wanted to understand what was going on under the hood.  Now, I can say that I've done this without a gem and completely understand what's going on!  Which is a super great feeling.  
+
+Now I must go... pizza awaits.  But before I do that, here's today's work.
+
+**Link(s) to work**: [Rails Photography Portfolio Basic Pagination](https://github.com/benjaminhyw/photography_portfolio/pull/11)
