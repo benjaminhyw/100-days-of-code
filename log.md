@@ -400,3 +400,11 @@ Now I must go... pizza awaits.  But before I do that, here's today's work.
 **Thoughts**:  Today was great!  I took care of everything I said I would, and even more.  It was a little tough, but I'm happy with the work I put in today.  Definitely learned a lot today, had to tweak things I've never even touched before but it's all good!  I think I'm finally ready to move on to the next part, which is the "infinite" portion of the site!  So, more JavaScript.  Yay!
 
 **Link(s) to work**: [Rails Photography Portfolio Bug Squashing && Clean-Up](https://github.com/benjaminhyw/photography_portfolio/pull/12)
+
+### Day 42: Monday, March 27th, 2017
+
+**Today's Progress**: Inched away at AJAX pagination, minor clean up.
+
+**Thoughts**:  Today was another hard day to tackle.  I'm not fully done but I overcame a hurdle, definitely.  Asked on StackOverflow and someone replied with exactly what I needed.
+
+**Link(s) to work**: [Rails Photography Portfolio Basic Pagination AJAX](https://github.com/benjaminhyw/photography_portfolio/pull/13) | [StackOverflow JavaScript THIS](http://stackoverflow.com/questions/43060041/how-to-access-changing-instance-variables-due-to-a-loop-in-javascript)
