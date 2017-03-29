@@ -408,3 +408,11 @@ Now I must go... pizza awaits.  But before I do that, here's today's work.
 **Thoughts**:  Today was another hard day to tackle.  I'm not fully done but I overcame a hurdle, definitely.  Asked on StackOverflow and someone replied with exactly what I needed.
 
 **Link(s) to work**: [Rails Photography Portfolio Basic Pagination AJAX](https://github.com/benjaminhyw/photography_portfolio/pull/13) | [StackOverflow JavaScript THIS](http://stackoverflow.com/questions/43060041/how-to-access-changing-instance-variables-due-to-a-loop-in-javascript)
+
+### Day 43: Monday, March 27th, 2017
+
+**Today's Progress**: Figured out scroll pagination via AJAX!.
+
+**Thoughts**:  I got it down, so I'm feeling good!  I still have to tweak some stuff like how many photos get AJAX'd at a time, visibility of images, etc.  I am now trying to implement a modal pop up for when the user clicks on the image.
+
+**Link(s) to work**: [Rails Photography Portfolio Clean Up](https://github.com/benjaminhyw/photography_portfolio/pull/14) | [Rails Photography Portfolio Click/Scroll Swap](https://github.com/benjaminhyw/photography_portfolio/pull/15)
