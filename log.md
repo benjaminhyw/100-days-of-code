@@ -409,10 +409,20 @@ Now I must go... pizza awaits.  But before I do that, here's today's work.
 
 **Link(s) to work**: [Rails Photography Portfolio Basic Pagination AJAX](https://github.com/benjaminhyw/photography_portfolio/pull/13) | [StackOverflow JavaScript THIS](http://stackoverflow.com/questions/43060041/how-to-access-changing-instance-variables-due-to-a-loop-in-javascript)
 
-### Day 43: Monday, March 27th, 2017
+### Day 43: Tuesday, March 28th, 2017
 
 **Today's Progress**: Figured out scroll pagination via AJAX!.
 
 **Thoughts**:  I got it down, so I'm feeling good!  I still have to tweak some stuff like how many photos get AJAX'd at a time, visibility of images, etc.  I am now trying to implement a modal pop up for when the user clicks on the image.
 
 **Link(s) to work**: [Rails Photography Portfolio Clean Up](https://github.com/benjaminhyw/photography_portfolio/pull/14) | [Rails Photography Portfolio Click/Scroll Swap](https://github.com/benjaminhyw/photography_portfolio/pull/15)
+
+### Day 44: Wednesday, March 29th, 2017
+
+**Today's Progress**: I got my modal!.
+
+**Thoughts**:  I got it to work correctly with the correct CSS, hooray!  Now I'm stuck on this part where I can't get my database to save a new piece of information I want my photos to have (landscape or not). This will allow my images to size correctly for the modal.  
+
+Everything looks good!  Happy with what I got done today but frustrated that I couldn't get this last part working right.  Oh well, I'll get it done tomorrow.
+
+**Link(s) to work**: [Rails Photography Portfolio Modal Pt1](https://github.com/benjaminhyw/photography_portfolio/pull/16) | [Rails Photography Portfolio Modal Pt2](https://github.com/benjaminhyw/photography_portfolio/pull/17) | [Rails Photography Portfolio Modal Pt3](https://github.com/benjaminhyw/photography_portfolio/pull/18) | [Rails Photography Portfolio Portrait/Landscape](https://github.com/benjaminhyw/photography_portfolio/pull/19) |
