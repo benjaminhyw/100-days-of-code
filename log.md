@@ -419,10 +419,28 @@ Now I must go... pizza awaits.  But before I do that, here's today's work.
 
 ### Day 44: Wednesday, March 29th, 2017
 
-**Today's Progress**: I got my modal!.
+**Today's Progress**: I got my modal!
 
 **Thoughts**:  I got it to work correctly with the correct CSS, hooray!  Now I'm stuck on this part where I can't get my database to save a new piece of information I want my photos to have (landscape or not). This will allow my images to size correctly for the modal.  
 
 Everything looks good!  Happy with what I got done today but frustrated that I couldn't get this last part working right.  Oh well, I'll get it done tomorrow.
 
-**Link(s) to work**: [Rails Photography Portfolio Modal Pt1](https://github.com/benjaminhyw/photography_portfolio/pull/16) | [Rails Photography Portfolio Modal Pt2](https://github.com/benjaminhyw/photography_portfolio/pull/17) | [Rails Photography Portfolio Modal Pt3](https://github.com/benjaminhyw/photography_portfolio/pull/18) | [Rails Photography Portfolio Portrait/Landscape](https://github.com/benjaminhyw/photography_portfolio/pull/19) |
+**Link(s) to work**: [Rails Photography Portfolio Modal Pt1](https://github.com/benjaminhyw/photography_portfolio/pull/16) | [Rails Photography Portfolio Modal Pt2](https://github.com/benjaminhyw/photography_portfolio/pull/17) | [Rails Photography Portfolio Modal Pt3](https://github.com/benjaminhyw/photography_portfolio/pull/18) | [Rails Photography Portfolio Portrait/Landscape](https://github.com/benjaminhyw/photography_portfolio/pull/19)
+
+### Day 45: Thursday, March 30th, 2017
+
+**Today's Progress**: I fixed some of the modal bugs I found yesterday, yay!
+
+**Thoughts**:  Cool so, yesterday I got my modal to work but not 100%.  Things were a bit wonky, but I cleaned that all up today!
+
+My boolean wasn't saving in the database, but that was due to me using a question mark in my field.  Removed it and everything went back to working fine.
+
+Some of my JS wasn't working for the newly AJAX'd info, so I had to bind the event.  I also had to tell AJAX to chill!  Basically forgot to tell it when to stop trying to make AJAX requests so I sent it out to infinity.  Now it knows when to stop.
+
+Fixed CSS appropriately so that regardless of how many new images get added, they should all receive the same treatment!  So, nothing should be uploaded out of sync now.
+
+Tomorrow.. I'm having a hard time deciding on what to do next now.  This project started off as practice for a client/freelance scenario, and I've pretty much hit MVP.  Enough to start talking about this professionally at least.  Minus some styling, it's got all basic functionality.  Definitely needs more security, because right now it doesn't have any tests or validations.  BUT, that I feel comfortable doing whenever so I haven't done it yet simply because this project I wanted to learn as much as possible first!  So I could have enough time to learn, let it soak, and apply!
+
+So yea anyway, I'm not sure how to wrap this up without really wrapping it up.  I think I'll make it look pretty now, and add more features later.. but I think with this project I'm able to start moving forward within the next couple of days!  It's pretty much the weekend so I'll try and get some work done but realistically looking more at Monday.
+
+**Link(s) to work**: [Rails Photography Portfolio DB (?) Fix](https://github.com/benjaminhyw/photography_portfolio/pull/20) | [Rails Photography Portfolio AJAX Bind / CHILL](https://github.com/benjaminhyw/photography_portfolio/pull/21) | [Rails Photography Portfolio Fixed CSS](https://github.com/benjaminhyw/photography_portfolio/pull/22) 
