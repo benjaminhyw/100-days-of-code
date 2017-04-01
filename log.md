@@ -444,3 +444,15 @@ Tomorrow.. I'm having a hard time deciding on what to do next now.  This project
 So yea anyway, I'm not sure how to wrap this up without really wrapping it up.  I think I'll make it look pretty now, and add more features later.. but I think with this project I'm able to start moving forward within the next couple of days!  It's pretty much the weekend so I'll try and get some work done but realistically looking more at Monday.
 
 **Link(s) to work**: [Rails Photography Portfolio DB (?) Fix](https://github.com/benjaminhyw/photography_portfolio/pull/20) | [Rails Photography Portfolio AJAX Bind / CHILL](https://github.com/benjaminhyw/photography_portfolio/pull/21) | [Rails Photography Portfolio Fixed CSS](https://github.com/benjaminhyw/photography_portfolio/pull/22) 
+
+### Day 46: Friday, March 31st, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:  Worked on developing smooth animations for images loading and syncing up with the scroll animations.
+
+So I started off making sure I had the basic functionality down.  Once I did, I realized it looked choppy so I went and made it so that was no longer the case.  
+
+I'm ending with that, but here's what comes next.  I think I might want to continue working on a smoother animation for the AJAX'd images.  Currently, they don't have any.  This works fine when they're 'hidden' behind that infinite scroll, but I want to make it so they remain hidden until their placeholder comes into view, before fading in.  It also needs just a more official clean up, because otherwise this project is pretty much visually ready to go.  First iteration at least.  There's always more to code!  
+
+**Link(s) to work**: [Rails Photography Portfolio Animated-Load Pt1](https://github.com/benjaminhyw/photography_portfolio/pull/23) | [Rails Photography Portfolio Animated-Load Pt2](https://github.com/benjaminhyw/photography_portfolio/pull/24) | [Rails Photography Portfolio Notes for Future Reference](https://github.com/benjaminhyw/photography_portfolio/pull/25) 
